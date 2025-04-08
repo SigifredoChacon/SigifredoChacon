@@ -5,7 +5,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN2aWtuOHZlcXUxbXE5YWYxcHo5ZWx0OHF1MzNjejJ4MmM0NmF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width = 300px></picture>
-I'm a Computer Engineering student with a passion for learning and personal growth. I enjoy exploring diverse topics and expanding my understanding of the field. My focus is on continuous improvement and sharing insights as I progress in my studies.
+I am a computer engineering student with a passion for technology and innovation. I stand out for my quick learning ability,
+analytical thinking, and communication skills, as well as my leadership abilities. I enjoy constantly seeking opportunities that
+allow me to improve my knowledge in real-world environments, contribute value to my team and company, and continue to
+grow professionally.
 
 - :technologist: Passionate about technologies related to Data Analysis/Data Science, Web Programming, and Automation
 - :cloud: Currently learning about Cloud Computing
@@ -25,6 +28,7 @@ I'm a Computer Engineering student with a passion for learning and personal grow
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -51,7 +55,6 @@ I'm a Computer Engineering student with a passion for learning and personal grow
 <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 <h4> Other Tools and Technologies </h4>
 <span>
@@ -59,6 +62,7 @@ I'm a Computer Engineering student with a passion for learning and personal grow
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 
 
 </span>
