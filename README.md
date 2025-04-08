@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN2aWtuOHZlcXUxbXE5YWYxcHo5ZWx0OHF1MzNjejJ4MmM0NmF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBhN2dyMjU0NzB3azdsM2pqNm5iaHZoZnpoOGp1aDg1bWlvejh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" width = 300px></picture>
 I am a computer engineering student with a passion for technology and innovation. I stand out for my quick learning ability,
 analytical thinking, and communication skills, as well as my leadership abilities. I enjoy constantly seeking opportunities that
 allow me to improve my knowledge in real-world environments, contribute value to my team and company, and continue to
