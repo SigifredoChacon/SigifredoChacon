@@ -77,9 +77,6 @@ grow professionally.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SigifredoChacon&theme=tokyonight" alt="Detalle del Perfil" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SigifredoChacon&theme=tokyonight" alt="Estadísticas de Racha" />
-  </p>
-  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SigifredoChacon&theme=tokyonight&layout=compact" alt="Lenguajes Destacados" />
   </p>
 </div>
