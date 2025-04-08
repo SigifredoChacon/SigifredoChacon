@@ -10,9 +10,9 @@ analytical thinking, and communication skills, as well as my leadership abilitie
 allow me to improve my knowledge in real-world environments, contribute value to my team and company, and continue to
 grow professionally.
 
-- :technologist: Passionate about technologies related to Data Analysis/Data Science, Web Programming, and Automation
-- :cloud: Currently learning about Cloud Computing
-- :handshake: I'm friendly and love collaborating with the community—feel free to reach out anytime without any obligation!
+- :technologist: Passionate about technologies related to Data Analysis, Data Science, and Web Programming.
+- :mag_right: Always curious and eager to explore new trends—investigating emerging topics and uncovering the secrets behind breakthrough technologies.
+- :handshake: Dedicated to cooperative work and fostering a collaborative environment where shared insights and teamwork drive innovation.
 
 <br>
 
@@ -34,7 +34,7 @@ grow professionally.
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -55,6 +55,7 @@ grow professionally.
 <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 
 <h4> Other Tools and Technologies </h4>
 <span>
