@@ -12,7 +12,7 @@ grow professionally.
 
 - :technologist: Passionate about technologies related to Data Analysis, Data Science, and Web Programming.
 - :mag_right: Always curious and eager to explore new trends—investigating emerging topics and uncovering the secrets behind breakthrough technologies.
-- :handshake: Dedicated to cooperative work and fostering a collaborative environment where shared insights and teamwork drive innovation.
+- :handshake: Committed to cooperative work, cultivating a collaborative environment where shared insights and teamwork lead to the successful completion of projects.
 
 <br>
 
