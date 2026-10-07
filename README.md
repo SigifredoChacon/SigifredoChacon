@@ -5,7 +5,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 
-I am a computer engineering with a passion for technology and innovation. I stand out for my quick learning ability,
+I am a computer engineer with a passion for technology and innovation. I stand out for my quick learning ability,
 analytical thinking, and communication skills, as well as my leadership abilities. I enjoy constantly seeking opportunities that
 allow me to improve my knowledge in real-world environments, contribute value to my team and company, and continue to
 grow professionally.
